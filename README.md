@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Domotique25
 - 👀 I’m interested in home automation and audio
+- I mainly use the ESP32, Node-red, ...
 
 
 <!---
